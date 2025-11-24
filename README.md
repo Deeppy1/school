@@ -1,2 +1,3 @@
-#School code from lessons
-##hope it works
+# School code from lessons
+## GCSE work
+## Currently working on: Python programming
